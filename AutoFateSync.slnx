@@ -1,5 +1,5 @@
 <Solution>
-	<Project Path="DalamudTemplate/DalamudTemplate.csproj">
+	<Project Path="AutoFateSync/AutoFateSync.csproj">
 		<Platform Project="x64" />
 	</Project>
 </Solution>

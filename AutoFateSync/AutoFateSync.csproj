@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>1.0.0.0</Version>
+    <Author>katabame</Author>
+    <Name>AutoFateSync</Name>
+    <Punchline>FATE参加時に自動でレベルシンクします</Punchline>
+    <Description>FATEの範囲に入った際、自分のレベルがFATEの上限レベルを超えていれば自動でレベルシンクを行います。/afs で設定画面を開きます。</Description>
+    <RepoUrl>https://github.com/katabame/AutoFateSync</RepoUrl>
+    <Tags>FATE;LevelSync;utility</Tags>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Update="DotNet.ReproducibleBuilds" Version="2.0.5" />
+  </ItemGroup>
+</Project>
